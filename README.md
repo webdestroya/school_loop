@@ -2,6 +2,7 @@
 
 
 [![Build Status](https://travis-ci.org/webdestroya/school_loop.svg)](https://travis-ci.org/webdestroya/school_loop)
+[![Gem Version](https://badge.fury.io/rb/school_loop.svg)](http://badge.fury.io/rb/school_loop)
 
 
 ## Installation
