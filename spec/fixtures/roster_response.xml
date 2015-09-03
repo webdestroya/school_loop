@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <roster source="schoolloop.com">
+    <teachers>
+      <teacher systemID="1111180131503" localID="111111" name="Reynolds, Mr. Malcom">
+        <courses>
+          <course systemID="1111107012313" name="Math">
+            <periods>
+              <period systemID="1111133312598" number="1">
+                <assignments/>
+                <students>
+                  <student permID="1000265" systemID="1111170083336" gradeLevel="12" firstName="Ryan" middleName="Chris" lastName="Test" displayID="1000265" localID="1234" sectionID="1234" sectionSystemID="1111133311259"/>
+                  <student permID="1000186" systemID="1111170083213" gradeLevel="11" firstName="Manuel" middleName="" lastName="Test" displayID="1000186" localID="5677" sectionID="1234" sectionSystemID="1111133311259"/>
+                  <student permID="1000673" systemID="1111170083137" gradeLevel="11" firstName="Justin" middleName="" lastName="Test" displayID="1000673" localID="8900" sectionID="1234" sectionSystemID="1111133311259"/>
+                  <student permID="1000878" systemID="1111170082883" gradeLevel="11" firstName="Dave" middleName="" lastName="Test" displayID="1000878" localID="1235" sectionID="1234" sectionSystemID="1111133311259"/>
+                  <student permID="1000985" systemID="1111107494444" gradeLevel="12" firstName="Colby" middleName="Jeffrey" lastName="Test" displayID="1000985" localID="1236" sectionID="1234" sectionSystemID="1111133311259"/>
+                </students>
+              </period>
+            </periods>
+          </course>
+          <course systemID="1111107012069" name="English 3">
+            <periods>
+              <period systemID="1111133312700" number="5">
+                <assignments>
+                  <assignment dueDate="2015-08-27T00:00:00Z" maxPoints="10.0" systemID="1111143710574" categoryName="Assignment" title="Parent Signature" categoryID="1111146128059"/>
+                  <assignment dueDate="2015-09-10T00:00:00Z" maxPoints="42.0" systemID="1111124172130" categoryName="Assignment" title="Unit 1 Literary Terms Worksheet and Test" categoryID="1111146128059"/>
+                  <assignment dueDate="2015-10-02T00:00:00Z" maxPoints="100.0" systemID="1111124171925" categoryName="Assignment" title="Participation/Professionalism" categoryID="1111146128059"/>
+                </assignments>
+                <students>
+                  <student permID="1000338" systemID="1111170083144" gradeLevel="11" firstName="Henny" middleName="" lastName="Test" displayID="1000338" localID="123" sectionID="1000" sectionSystemID="1111133311919"/>
+                  <student permID="1000997" systemID="1111170083020" gradeLevel="11" firstName="Sean" middleName="" lastName="Test" displayID="1000997" localID="456" sectionID="1000" sectionSystemID="1111133311919"/>
+                  <student permID="1000673" systemID="1111170083137" gradeLevel="11" firstName="Justin" middleName="" lastName="Test" displayID="1000673" localID="789" sectionID="1000" sectionSystemID="1111133311919"/>
+                  <student permID="1000828" systemID="1111143756226" gradeLevel="11" firstName="Fred" middleName="Adele" lastName="Test" displayID="1000828" localID="8456" sectionID="1000" sectionSystemID="1111133311919"/>
+                  <student permID="1000977" systemID="1111170082757" gradeLevel="11" firstName="Peter" middleName="Jay" lastName="Test" displayID="1000977" localID="9456" sectionID="1000" sectionSystemID="1111133311919"/>
+                  <student permID="1000183" systemID="1111170083015" gradeLevel="11" firstName="Kyle" middleName="Kend" lastName="Test" displayID="1000183" localID="7456" sectionID="1000" sectionSystemID="1111133311919"/>
+                </students>
+              </period>
+            </periods>
+          </course>
+        </courses>
+        <categories>
+          <category systemID="1111146879613" name="Classwork - Homework"/>
+          <category systemID="1111146128059" name="Assignment"/>
+          <category systemID="1111175461981" name="Quiz / Test"/>
+        </categories>
+      </teacher>
+    </teachers>
+  </roster>
+</root>

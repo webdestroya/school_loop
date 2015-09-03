@@ -1,0 +1,6 @@
+coverage/
+doc
+.yardoc/
+pkg/
+.env
+roster.xml

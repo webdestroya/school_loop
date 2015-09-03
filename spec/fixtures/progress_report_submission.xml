@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <sections>
+        <section ID="1234">
+            <progressReports>
+                <progressReport markName="Current Grades" date="2007-08-12T22:24:15Z" score="0.95" grade="A" hasScore="true" useWeighting="false" gradebookDate="">
+                    <gradeDefinitions>
+                        <keyValue key="INC" value="INCOMPLETE (not handed in)"/>
+                    </gradeDefinitions>
+                    <categories>
+                        <category hasScore="true" name="Assignment" weight="-1.000" score="0.000"/>
+                    </categories>
+                    <course period="3" systemID="100000881299" name="English"/>
+                    <gradingScale>
+                        <cutoffs>
+                            <cutoff Start="90" Name="A"/>
+                            <cutoff Start="0" Name="F"/>
+                        </cutoffs>
+                    </gradingScale>
+                    <grades>
+                        <grade score="10" excused="false" comment="" grade="B">
+                            <assignment categoryName="Assignment" maxPoints="10" dueDate="2007-05-18T00:00:00Z" title="WWI"/>
+                        </grade>
+                        <grade score="10" excused="false" comment="" grade="B">
+                            <assignment categoryName="Assignment" maxPoints="10" dueDate="2007-05-18T00:00:00Z" title="Thing 2"/>
+                        </grade>
+                    </grades>
+                    <student name="Cleaver, Kevin" schoolID="7123456"/>
+                </progressReport>
+            </progressReports>
+        </section>
+    </sections>
+</root>
