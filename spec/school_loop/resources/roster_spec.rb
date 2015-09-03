@@ -16,7 +16,7 @@ describe SchoolLoop::Resources::Roster do
     before do
       stub_request(:get, /.*schoolloop\.com\/api\/roster.*/)
         .to_return(status: 200, body: fixture("roster_response.xml").read,
-          headers: {'Content-Type': 'text/xml'}
+          headers: {'Content-Type' => 'text/xml'}
         )
     end
 
